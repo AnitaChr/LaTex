@@ -1,2 +1,2 @@
 # LaTex
-All public LaTex files created by me
+All LaTex files created by me for open access
